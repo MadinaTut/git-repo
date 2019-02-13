@@ -1,0 +1,2 @@
+print ("googbye world")
+print ("bye")
