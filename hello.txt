@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+print ("hello world")
+print ("hello everybody")
+print ("Hell")
+print ("Glad to see you, chuvak")
+=======
 print ("hello world;")
 print ("hello everybody;")
 print ("Hell;")
 print ("hello my friend;")
+print ("Glad to see you, chuvak;")
+>>>>>>> master
